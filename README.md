@@ -6,7 +6,7 @@ Welcome to the GrowInCommunity Website Building Competition! This competition ch
 
 ## Theme
 
-The theme for this year's competition is: "Website-Competetion".  
+The theme for this year's competition is: "GrowInComm-Website-Competetion".  
 
 ## Eligibility
 
@@ -16,7 +16,7 @@ The theme for this year's competition is: "Website-Competetion".
 ## Registration
 
 *   Registration opens on 18 February and closes on 23 February.
-*   To register, please visit [Link to Registration Form/Page].
+*   To register, please visit [Link to Registration Form].
 *   [Optional: Include specific registration instructions, e.g., team name requirements, submission of a project proposal, etc.]
 
 ## Competition Timeline
@@ -29,7 +29,7 @@ The theme for this year's competition is: "Website-Competetion".
 
 ## Submission Guidelines
 
-*   All submissions must be made through [Platform for Submission, e.g., GitHub, a dedicated submission portal].
+*   All submissions must be made through GitHub.
 *   The submitted project must include:
     *   The complete website code.
     *   A README file with clear instructions on how to run the website.
@@ -63,12 +63,12 @@ The websites will be judged based on the following criteria:
 ## Terms and Conditions
 
 *   By participating in the competition, you agree to these rules and regulations.
-*   The organizers reserve the right to modify these rules at any time.  Any changes will be announced on [Communication Channels, e.g., the competition webpage, Discord server].
+*   The organizers reserve the right to modify these rules at any time.  Any changes will be announced on [Discord server link].
 *   The decisions of the judges are final.
 
 ## Contact
 
-If you have any questions, please contact us at [Email Address/Contact Form].
+If you have any questions, please contact us at [Discord Channe/Email Address].
 
 ## Sponsors
 1. GrowInCommunity
